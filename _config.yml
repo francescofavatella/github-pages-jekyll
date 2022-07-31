@@ -7,5 +7,7 @@ description: An example of jekyll blog
 header_pages:
   - about.md
 
+theme: minima
+
 # default articles prefix
 permalink: /articles/:title
