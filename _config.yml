@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: A blog
 description: An example of jekyll blog
+
+
+# pages to show on header
+header_pages:
+  - about.md
+
+# default articles prefix
+permalink: /articles/:title
